@@ -1,0 +1,82 @@
+.jumbotron{
+	background-color: #76a4f2;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	padding: 1rem;
+	margin-bottom: 0;
+	border-radius: 0;
+}
+.navbar{
+	font-size: 20px;
+	border-radius: 0;
+	background-color: white;
+	font-weight: 700;
+	border-width: 0;
+	padding-right: 32px;
+
+}
+.navbar-default .navbar-nav > li > a{
+	color: #76a4f2;
+	padding-bottom: 16px;
+	text-transform: uppercase;
+}
+
+.btn-default{
+	color: #76a4f2;
+	background-color: white;
+	border-width: 0;
+	font-size: 20px;
+	padding: 11px;
+}
+
+.navbar-default .navbar-nav > li > .btn-default:focus{
+	color: #76a4f2;
+	background-color: white;
+}
+
+.navbar-default .navbar-nav > li > .btn-default:hover{
+	color: white;
+	background-color: #76a4f2;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover{
+	color: white;
+	background-color: #76a4f2;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{
+	color: white;
+	background-color: #76a4f2;
+}
+
+.container p{
+	text-align: center;
+	margin: 0;
+	padding-top: 10px; 
+}
+
+.container{
+	padding: 0;
+}
+
+body{
+	background-color: #222222;
+}
+.navbar-text{
+	float: none;
+}
+.row + .row{
+	margin-top: 25px;
+}
+.cBtn{
+	width: 30%;
+	padding-bottom:30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+	border-width: 0;
+	background-size: auto 220px;
+	background-repeat: no-repeat;
+	background-position: center;
+}

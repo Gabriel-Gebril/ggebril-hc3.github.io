@@ -1,0 +1,20 @@
+# Brainstorming
+- ## Matching game 
+  - 3 way matching game where the user has to match name with relationship to user and their picture together.
+  - Having more than one member on screen at a time might be too confusing or maybe it's exactly what would strengthen the assoication, more research needed.
+  - Name at the far left, followed by relationship then a picture.
+  - When you click the name u get an arrow that follows your cursor to the relationship and when you click on the relationship you get an arrow to the picture.
+- ## Picture Guessing Game
+  - Name and relationship is displayed at the top of the screen and the user has to guess which face below corresponds to the info given.
+  - Can reshuffle the pictures and name if user having trouble.
+  - Can implement multiple difficulty settings by reducing the number of pictures shown.
+  - Each picture is a button for a "guess"
+  - Intuitive design since each picture is a button and the buttons on top are self explanitory. This would require no explict explanation in an ideal case.
+  - Easy to implement for both mobile and desktop.
+  - Each screen is basically a flash card for matching a persons name and relationship with their face. This is closest to the task we want the user to be able to perform
+- ## Multiple choice Flash Card
+  - Each flash card is a picture and you'd have either 3 names or 3 relationships to choose from for the picture
+  - Very simple quiz style application
+  - Multiple difficulties are a bit harder to implement, hard mode would be more names/relationships?
+  - Flash cards are a proven way to increase memory.
+  - Maybe it keeps a score of how many you get right?
